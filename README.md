@@ -36,7 +36,7 @@ expo start
 
 Runs the app in the development mode.
 
-Open [http://LocalIpAdress:19000](http://localhost:19000) or [http://localhost:19000](http://localhost:19000) to view it in emulated o real device expo application.
+Open [http://LocalIpAddress:19000](http://localhost:19000) or [http://localhost:19000](http://localhost:19000) to view it in emulated or real device expo application.
 
 --- 
 With ❤️ by [Yuberley Guerrero](https://github.com/Yuberley) 😊
